@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Awss 
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Web Devoloping 
+- 🌱 I’m currently learning Web Devolopment
 - 💞️ I’m looking to collaborate  
 - 📫 How to reach me awssal888@gmail.com
 
